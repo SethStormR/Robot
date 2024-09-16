@@ -9,5 +9,5 @@ Screenshots
 --
 ![screenshot-2024-09-16-03-52-17](https://github.com/user-attachments/assets/19ed478a-e1d9-487e-9e6c-ed7da1ef46ad)
 
-![b1b8fdaac11273619fc0896f34b1260f859c5989](https://github.com/user-attachments/assets/559ff36d-e386-49f5-94d9-62240bd3e2f6)
 
+![67915f6622a4958ce9e31b523f16808dfccac0e2](https://github.com/user-attachments/assets/4b05f806-0037-4136-8b17-2e2caef3c1f2)
