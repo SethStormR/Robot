@@ -1,6 +1,6 @@
 # Robot
 
-![Blue - Dark](https://github.com/user-attachments/assets/c6d38104-bd46-4e93-9f04-e9849a21c615)
+![Robot-Logo](https://github.com/user-attachments/assets/95f933fc-b3f8-42bc-9f71-7f9ffdf17a1f)
 
 
 Robot icon themes are aimed for Cosmic DE. 9 icon themes that follow the 9 default colors of Cosmic DE.
